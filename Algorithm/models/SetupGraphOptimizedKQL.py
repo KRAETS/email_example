@@ -13,19 +13,22 @@ import timeit
 
 import community
 from dateutil.parser import parse
-from igraph import *
+from igraph import * 
 from networkx.algorithms.centrality.betweenness import edge_betweenness        
 import pygraphviz
 from pymongo import MongoClient
 import pymongo
 from pytz import timezone
-import pytz
-
+import pytz 
+import math
 import matplotlib.pyplot as plt
-from test.test_pprint import list2
+from test.test_pprint import list2 
 
 
 def setupGraph(nodestopnum=None):
+    c1 =0
+    c2=0 
+    c3=0
     f = open('statistics','a')
     
     #initial_emailset =  messages.find({"$or":[{"message_folder":"sent"},{"message_folder":"sent_items"}]}).distinct("sender_address")
@@ -36,7 +39,9 @@ def setupGraph(nodestopnum=None):
     f.write('\n')
 
     #REPLACEMENT
+    
     call(["java", "-jar", "kql_engine-1.0-SNAPSHOT-jar-with-dependencies.jar","-kqlq","SELECT DISTINCT \ALL*email_address*_:source\ FROM \ALL/emailmessage}\ WHERE ( \ALL*folder\ = 'sent_items' OR \ALL*folder\ = 'sent')",'-fol','5'])
+    c1= c1+1
     #print "Done"
     with open("output/outfile") as data_file:    
         data = json.load(data_file)
@@ -47,7 +52,7 @@ def setupGraph(nodestopnum=None):
     f.write('\n')
     f.write('First query total time:'+str(start2-start1))
     f.write('\n')
-    G=Graph()
+    G=Graph() 
 #    Setup the graph with the initial nodes
 #    These will be the people from enron who have messages in sent and sent_items folders
     G.add_vertices(len(data['results']))
@@ -78,7 +83,7 @@ def setupGraph(nodestopnum=None):
             continue
         nodelist2.append(node)
     #Setup QUERIES
-    nodestopnum = math.floor((5.0/6)*len(nodelist2))
+    nodestopnum = math.floor((6.0/6)*len(nodelist2))
     for node in nodelist2:
 #         print nodenum, len(nodelist1), len(G.vs), len(G.es)
         nodenum = nodenum+1
@@ -89,7 +94,10 @@ def setupGraph(nodestopnum=None):
         start1 = timeit.default_timer()
 
         query = '''select \\ALL*[emailmessage]\\ FROM \\ALL/emailmessage\\ WHERE ( \\ALL*folder*_:email_message\\ = 'sent_items' OR \\ALL*folder*_:email_message\\= 'sent') AND ( \\ALL*email_address*_:sender\\=\''''+node+"\' )"
+        c2=c2+1
         querylist.append(query)
+        print len(nodelist2)
+
     
     #Time them
     f.write('Mega query start time:'+str(start1))
@@ -105,9 +113,12 @@ def setupGraph(nodestopnum=None):
     f.write('Sub query total time:'+str(start2-start1))
     f.write('\n')
     filenumber = 0
+    print c1,c2,c3
+    return
     #Build graph
     nodenum = 0;
     for node in nodelist2:
+        print len(nodelist2)
         print nodenum, len(nodelist2), len(G.vs), len(G.es)
         f.write(str(nodenum) +" "+ str(len(nodelist2)) + " "+ str( len(G.vs))+ " "+ str(len(G.es)))
 #         nodestopnum = 6
@@ -205,6 +216,8 @@ def setupGraph(nodestopnum=None):
                      
         filenumber+=1
     f.close()
+    print c1,c2,c3
+
     return G
 
 def main():

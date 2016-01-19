@@ -222,8 +222,7 @@ if __name__ == "__main__":
 
             counter += 1
             if counter % 1000 == 0:
-                pass
-#                 print("{0} {1}".format(counter,datetime.datetime.now()))
+                print("{0} {1}".format(counter,datetime.datetime.now()))
 
 #     print "database closed {0}".format(datetime.datetime.now())
 #     print "{0} total records processed".format(counter - 1)

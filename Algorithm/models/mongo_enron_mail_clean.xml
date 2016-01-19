@@ -23,7 +23,7 @@
         <catalogName></catalogName>
         <caseSensitive>true</caseSensitive>
         <comment></comment>
-        <numTuples>40134</numTuples>
+        <numTuples>79102</numTuples>
      <FIELD>
         <semanticFieldName>_id</semanticFieldName>
         <fieldName>"_id"</fieldName>
