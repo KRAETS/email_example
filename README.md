@@ -1,5 +1,3 @@
-
-
 User Model Generator from Email Corpus
 =============
 
