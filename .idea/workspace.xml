@@ -1,0 +1,1589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e6e1ce1-79c8-4a70-9677-2f723890ea3b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/models/kql_engine-1.1-SNAPSHOT-jar-with-dependencies.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/models/mysql-connector-java-5.1.39-bin.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedPortableMongo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedPortableSql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/models/oldstatistics/statistics" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/models/strangestuff/communities" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/models/strangestuff/data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/models/strangestuff/membership" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithm/models/communities" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithm/models/data.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithm/models/membership" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithm/models/statistics" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithm/models/STATISTICSTEST3" afterPath="$PROJECT_DIR$/Algorithm/models/oldstatistics/STATISTICSTEST3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithm/models/color.png" afterPath="$PROJECT_DIR$/Algorithm/models/strangestuff/color.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithm/models/commext.cfg" afterPath="$PROJECT_DIR$/Algorithm/models/strangestuff/commext.cfg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithm/models/statistics3nokql" afterPath="$PROJECT_DIR$/Algorithm/models/oldstatistics/statistics3nokql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithm/models/statisticslargest" afterPath="$PROJECT_DIR$/Algorithm/models/oldstatistics/statisticslargest" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithm/models/statisticsrest" afterPath="$PROJECT_DIR$/Algorithm/models/oldstatistics/statisticsrest" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithm/models/statisticstest2" afterPath="$PROJECT_DIR$/Algorithm/models/oldstatistics/statisticstest2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithm/models/statisticstest2nokql" afterPath="$PROJECT_DIR$/Algorithm/models/oldstatistics/statisticstest2nokql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithm/models/stopwords" afterPath="$PROJECT_DIR$/Algorithm/models/strangestuff/stopwords" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithm/models/usefulcompanies" afterPath="$PROJECT_DIR$/Algorithm/models/strangestuff/usefulcompanies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/kql_engine-1.0-SNAPSHOT-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/Algorithm/models/kql_engine-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue50.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue50.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue56a.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue56a.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue56b.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue56b.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue95.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue95.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/manual.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/manual.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/tableoptions2.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/tableoptions2.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/antlr-3.5.2-complete.jar" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/antlr-3.5.2-complete.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/antlr-3.5.jar" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/antlr-3.5.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.docx" afterPath="$PROJECT_DIR$/README.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/.project" afterPath="$PROJECT_DIR$/Algorithm/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/.pydevproject" afterPath="$PROJECT_DIR$/Algorithm/.pydevproject" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/ImportScript.py" afterPath="$PROJECT_DIR$/Algorithm/models/ImportScript.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/SetupGraphOptimized.py" afterPath="$PROJECT_DIR$/Algorithm/models/SetupGraphOptimized.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedKQL.py" afterPath="$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedKQL.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/mongo_enron_mail_clean.xml" afterPath="$PROJECT_DIR$/Algorithm/models/mongo_enron_mail_clean.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/JavaPhpSqlWrapper.java" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/JavaPhpSqlWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/examples/OracleSQLTranslator.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/examples/OracleSQLTranslator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/examples/example.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/examples/example.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/examples/out.txt" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/examples/out.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/examples/simplerexample.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/examples/simplerexample.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/libs/codesniffer/PhOSCo/Sniffs/Classes/ClassDeclarationSniff.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/libs/codesniffer/PhOSCo/Sniffs/Classes/ClassDeclarationSniff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/libs/codesniffer/PhOSCo/Sniffs/Commenting/ClassCommentSniff.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/libs/codesniffer/PhOSCo/Sniffs/Commenting/ClassCommentSniff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/libs/codesniffer/PhOSCo/Sniffs/Commenting/FileCommentSniff.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/libs/codesniffer/PhOSCo/Sniffs/Commenting/FileCommentSniff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/libs/codesniffer/PhOSCo/Sniffs/ControlStructures/MultiLineConditionSniff.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/libs/codesniffer/PhOSCo/Sniffs/ControlStructures/MultiLineConditionSniff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/libs/codesniffer/PhOSCo/Sniffs/Functions/FunctionDeclarationSniff.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/libs/codesniffer/PhOSCo/Sniffs/Functions/FunctionDeclarationSniff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/libs/codesniffer/PhOSCo/ruleset.xml" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/libs/codesniffer/PhOSCo/ruleset.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/libs/codesniffer/usage.txt" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/libs/codesniffer/usage.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/PHPSQLCreator.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/PHPSQLCreator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/PHPSQLParser.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/PHPSQLParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/AliasBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/AliasBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CharacterSetBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CharacterSetBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CheckBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CheckBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CollationBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CollationBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ColumnDefinitionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ColumnDefinitionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ColumnListBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ColumnListBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ColumnReferenceBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ColumnReferenceBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ColumnTypeBracketExpressionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ColumnTypeBracketExpressionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ColumnTypeBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ColumnTypeBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ConstantBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ConstantBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ConstraintBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ConstraintBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CreateBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CreateBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CreateStatementBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CreateStatementBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CreateTableBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CreateTableBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CreateTableDefinitionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CreateTableDefinitionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CreateTableOptionsBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CreateTableOptionsBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CreateTableSelectOptionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/CreateTableSelectOptionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/DataTypeBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/DataTypeBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/DatabaseBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/DatabaseBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/DeleteBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/DeleteBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/DeleteStatementBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/DeleteStatementBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/DirectionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/DirectionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/EngineBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/EngineBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ForeignKeyBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ForeignKeyBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ForeignRefBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ForeignRefBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/FromBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/FromBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/FunctionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/FunctionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/GroupByBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/GroupByBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/InListBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/InListBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/IndexColumnBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/IndexColumnBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/IndexParserBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/IndexParserBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/IndexSizeBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/IndexSizeBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/IndexTypeBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/IndexTypeBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/InsertBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/InsertBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/InsertStatementBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/InsertStatementBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/JoinBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/JoinBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/LikeBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/LikeBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/LikeExpressionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/LikeExpressionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/LimitBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/LimitBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/OperatorBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/OperatorBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/OrderByAliasBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/OrderByAliasBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/OrderByBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/OrderByBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/PositionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/PositionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/PrimaryKeyBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/PrimaryKeyBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ProcedureBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ProcedureBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/RecordBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/RecordBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/RefClauseBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/RefClauseBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/RefTypeBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/RefTypeBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ReservedBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ReservedBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SelectBracketExpressionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SelectBracketExpressionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SelectBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SelectBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SelectExpressionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SelectExpressionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SelectStatementBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SelectStatementBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SetBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SetBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SetExpressionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SetExpressionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ShowBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ShowBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ShowStatementBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ShowStatementBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SubQueryBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SubQueryBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SubTreeBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/SubTreeBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/TableBracketExpressionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/TableBracketExpressionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/TableBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/TableBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/TableExpressionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/TableExpressionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/UpdateBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/UpdateBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/UpdateStatementBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/UpdateStatementBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/UserVariableBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/UserVariableBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ValuesBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/ValuesBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/WhereBracketExpressionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/WhereBracketExpressionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/WhereBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/WhereBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/WhereExpressionBuilder.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/builders/WhereExpressionBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/exceptions/InvalidParameterException.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/exceptions/InvalidParameterException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/exceptions/UnableToCalculatePositionException.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/exceptions/UnableToCalculatePositionException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/exceptions/UnableToCreateSQLException.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/exceptions/UnableToCreateSQLException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/exceptions/UnsupportedFeatureException.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/exceptions/UnsupportedFeatureException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/lexer/LexerSplitter.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/lexer/LexerSplitter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/lexer/PHPSQLLexer.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/lexer/PHPSQLLexer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/positions/PositionCalculator.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/positions/PositionCalculator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/AbstractProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/AbstractProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ColumnDefinitionProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ColumnDefinitionProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ColumnListProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ColumnListProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/CreateDefinitionProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/CreateDefinitionProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/CreateProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/CreateProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/DefaultProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/DefaultProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/DeleteProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/DeleteProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/DescProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/DescProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/DescribeProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/DescribeProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/DropProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/DropProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/DuplicateProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/DuplicateProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ExplainProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ExplainProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ExpressionListProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ExpressionListProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/FromProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/FromProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/GroupByProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/GroupByProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/HavingProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/HavingProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/IndexColumnListProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/IndexColumnListProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/InsertProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/InsertProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/IntoProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/IntoProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/LimitProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/LimitProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/OrderByProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/OrderByProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/RecordProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/RecordProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ReferenceDefinitionProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ReferenceDefinitionProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/RenameProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/RenameProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ReplaceProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ReplaceProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/SQLChunkProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/SQLChunkProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/SQLProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/SQLProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/SelectExpressionProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/SelectExpressionProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/SelectProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/SelectProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/SetProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/SetProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ShowProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ShowProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/TableProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/TableProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/UnionProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/UnionProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/UpdateProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/UpdateProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/UsingProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/UsingProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ValuesProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/ValuesProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/WhereProcessor.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/processors/WhereProcessor.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/utils/ExpressionToken.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/utils/ExpressionToken.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/utils/ExpressionType.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/utils/ExpressionType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/utils/PHPSQLParserConstants.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/utils/PHPSQLParserConstants.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/utils/PHPSQLParserUtils.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/src/utils/PHPSQLParserUtils.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/asc.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/asc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/count_distinct.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/count_distinct.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/function.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/inlist.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/inlist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/insert.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/insert.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue100.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue100.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue101.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue101.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue102.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue102.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue105.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue105.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue106.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue106.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue110.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue110.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue33.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue33.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue57.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue57.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue58.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue58.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue63.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue63.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue66.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue66.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue76.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue76.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue78.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue78.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue79.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue79.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue81.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue81.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue83.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue83.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue85.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue85.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue86.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue86.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue87.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue87.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue88.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue88.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue89.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue89.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue92.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue92.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue94.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue94.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue98.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/issue98.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/join.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/join.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/left.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/left.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/magnus.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/magnus.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/tableexpr.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/tableexpr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/update.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/where.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/creator/where.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/aliases.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/aliases.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/allcolumns.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/allcolumns.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/backtick.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/backtick.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/delete.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/drop.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/drop.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/from.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/from.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/gtltop.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/gtltop.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/inlist.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/inlist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/insert.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/insert.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue102.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue102.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue107.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue107.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue108.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue108.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue11.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue11.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue12.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue12.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue15.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue15.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue21.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue21.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue25.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue25.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue30.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue30.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue31.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue31.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue32.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue32.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue33.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue33.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue34.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue34.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue36.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue36.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue37.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue37.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue38.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue38.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue39.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue39.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue40.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue40.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue41.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue41.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue42.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue42.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue43.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue43.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue44.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue44.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue45.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue45.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue46.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue46.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue50.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue50.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue51.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue51.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue52.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue52.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue53.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue53.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue54.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue54.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue55.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue55.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue56.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue56.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue60.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue60.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue61.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue61.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue62.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue62.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue65.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue65.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue67.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue67.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue68.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue68.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue69.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue69.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue70.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue70.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue71.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue71.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue72.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue72.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue74.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue74.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue78.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue78.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue79.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue79.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue80.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue80.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue82.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue82.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue87.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue87.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue90.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue90.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue91.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue91.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue93.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue93.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue94.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue94.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue95.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue95.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue97.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue97.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue98.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/issue98.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/left.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/left.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/manual.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/manual.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/nested.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/nested.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/positions.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/positions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/select.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/select.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/show.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/show.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/subselect.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/subselect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/tableoptions.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/tableoptions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/tokens.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/tokens.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/union.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/union.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/update.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/variables.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/variables.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/zero.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/cases/parser/zero.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/asc.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/asc.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/distinct.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/distinct.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/function.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/function.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/inlist.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/inlist.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/insert1.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/insert1.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/insert2.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/insert2.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/insert3.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/insert3.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue100.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue100.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue101.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue101.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue102.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue102.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue105.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue105.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue106.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue106.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue110.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue110.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33a.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33a.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33b.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33b.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33c.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33c.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33d.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33d.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33e.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33e.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33f.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33f.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33g.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33g.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33h.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33h.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33i.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33i.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33j.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33j.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33k.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33k.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33l.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33l.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33m.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue33m.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue57.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue57.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue58.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue58.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue63a.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue63a.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue63b.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue63b.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue63c.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue63c.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue66.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue66.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue76a.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue76a.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue76b.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue76b.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue78a.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue78a.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue78b.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue78b.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue78c.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue78c.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue78d.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue78d.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue78e.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue78e.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue79a.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue79a.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue81.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue81.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue83.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue83.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue85.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue85.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue86.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue86.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue87.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue87.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue88.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue88.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue89.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue89.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue92.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue92.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue94.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue94.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue98.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/issue98.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/join.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/join.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/left.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/left.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/magnus.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/magnus.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/tableexpr.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/tableexpr.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/update.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/update.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/where.sql" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/creator/where.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/alias1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/alias1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/alias2.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/alias2.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/alias3.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/alias3.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/alias4.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/alias4.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/allcolumns1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/allcolumns1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/allcolumns2.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/allcolumns2.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/allcolumns3.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/allcolumns3.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/allcolumns4.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/allcolumns4.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/allcolumns5.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/allcolumns5.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/backtick1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/backtick1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/delete1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/delete1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/drop.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/drop.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/gtltop.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/gtltop.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/inlist1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/inlist1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/insert1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/insert1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/insert2.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/insert2.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/insert3.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/insert3.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue102.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue102.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue11.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue11.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue12.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue12.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue15.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue15.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue21.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue21.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue25.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue25.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue30.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue30.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue31.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue31.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue32.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue32.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33a.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33a.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33b.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33b.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33c.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33c.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33d.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33d.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33e.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33e.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33f.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33f.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33g.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33g.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33h.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33h.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33i.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33i.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33j.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33j.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33k.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33k.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33l.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue33l.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue34a.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue34a.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue34b.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue34b.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue36a.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue36a.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue36b.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue36b.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue36c.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue36c.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue37.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue37.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue38.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue38.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue39.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue39.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue40a.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue40a.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue40b.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue40b.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue41.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue41.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue42.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue42.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue43.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue43.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue44.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue44.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue45.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue45.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue51.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue51.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue52.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue52.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue53a.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue53a.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue53b.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue53b.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue55a.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue55a.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue55b.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue55b.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue61.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue61.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue62.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue62.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue65.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue65.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue67a.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue67a.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue67b.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue67b.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue68.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue68.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue69.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue69.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue70.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue70.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue71a.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue71a.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue71b.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue71b.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue72.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue72.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue74a.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue74a.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue74b.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue74b.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue74c.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue74c.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue74d.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue74d.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue74e.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue74e.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue74f.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue74f.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue78a.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue78a.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue78b.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue78b.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue78c.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue78c.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue78d.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue78d.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue78e.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue78e.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue79a.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue79a.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue80a.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue80a.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue80b.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue80b.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue82.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue82.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue87a.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue87a.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue87b.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue87b.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue90.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue90.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue91.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue91.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue93.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue93.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue94.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue94.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue97.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue97.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue98.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/issue98.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/left1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/left1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/left2.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/left2.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/nested1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/nested1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/nested2.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/nested2.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/positions1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/positions1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/select1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/select1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/select2.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/select2.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/show1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/show1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/show2.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/show2.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/show3.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/show3.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/show4.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/show4.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/show5.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/show5.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/subselect1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/subselect1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/subselect2.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/subselect2.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/tableoptions1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/tableoptions1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/union1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/union1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/union2.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/union2.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/update1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/update1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/update2.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/update2.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/variables1.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/variables1.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/variables2.serialized" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/expected/parser/variables2.serialized" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/test-more.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/test-more.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/tests-creator.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/tests-creator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/tests-parser.php" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/java/com/ll/mit/edu/php/sqlparser/tests/tests-parser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/json/DimensionSet2DimensionMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/json/DimensionSet2DimensionMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/json/Field2DimensionMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/json/Field2DimensionMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/json/Table2FieldMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/json/Table2FieldMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/json/Tag2FieldMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/json/Tag2FieldMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/json/TagScheme2TagMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/json/TagScheme2TagMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/json/VirtualDimensionsMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/json/VirtualDimensionsMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/DimensionSet2DimensionMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/DimensionSet2DimensionMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/Field2DimensionMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/Field2DimensionMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/Table2FieldMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/Table2FieldMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/Tag2FieldMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/Tag2FieldMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/TagScheme2TagMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/TagScheme2TagMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/VirtualDimensionsMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/VirtualDimensionsMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/reachability/DimensionSet2DimensionMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/reachability/DimensionSet2DimensionMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/reachability/Field2DimensionMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/reachability/Field2DimensionMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/reachability/Operator2DimensionSetMap1.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/reachability/Operator2DimensionSetMap1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/reachability/Table2FieldMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/reachability/Table2FieldMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/reachability/Tag2FieldMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/reachability/Tag2FieldMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/reachability/TagScheme2TagMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/reachability/TagScheme2TagMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/models/src/main/resources/reachability/VirtualDimensionsMap.json" afterPath="$PROJECT_DIR$/Algorithm/models/src/main/resources/reachability/VirtualDimensionsMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="$PROJECT_DIR$/LICENSE.txt" />
+    </list>
+    <ignored path="email_modeler.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/email_modeler$SetupGraphOriginal.coverage" NAME="SetupGraphOriginal Coverage Results" MODIFIED="1470366671631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/models" />
+    <SUITE FILE_PATH="coverage/email_modeler$ImportScript1.coverage" NAME="ImportScript1 Coverage Results" MODIFIED="1476844474375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/models" />
+    <SUITE FILE_PATH="coverage/email_modeler$ImportScript.coverage" NAME="ImportScript Coverage Results" MODIFIED="1472854677042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/models" />
+    <SUITE FILE_PATH="coverage/email_modeler$ImportScriptMySql.coverage" NAME="ImportScriptMySql Coverage Results" MODIFIED="1473195934647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/models" />
+    <SUITE FILE_PATH="coverage/email_modeler$kql1_1test.coverage" NAME="kql1_1test Coverage Results" MODIFIED="1472666267917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/models" />
+    <SUITE FILE_PATH="coverage/email_modeler$SetupGraphOptimized.coverage" NAME="SetupGraphOptimized Coverage Results" MODIFIED="1478144600109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/models" />
+    <SUITE FILE_PATH="coverage/email_modeler$SetupGraphOptimizedPortableMongo.coverage" NAME="SetupGraphOptimizedPortableMongo Coverage Results" MODIFIED="1478837440237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/models" />
+    <SUITE FILE_PATH="coverage/email_modeler$SetupGraphOptimizedPortable.coverage" NAME="SetupGraphOptimizedPortable Coverage Results" MODIFIED="1473214148057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/models" />
+    <SUITE FILE_PATH="coverage/email_modeler$SetupGraphOptimizedKQL.coverage" NAME="SetupGraphOptimizedKQL Coverage Results" MODIFIED="1473720612534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/models" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="email_modeler" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SetupGraphOptimizedKQL.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedKQL.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="49" column="86" selection-start-line="49" selection-start-column="86" selection-end-line="49" selection-end-column="86" />
+              <folding>
+                <marker date="1473647093000" expanded="true" signature="1710:1841" ph="SELECT DISTI... " />
+                <marker date="1473647093000" expanded="true" signature="3770:3976" ph="select \\ALL... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetupGraphOptimizedPortableSql.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedPortableSql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="62" column="24" selection-start-line="62" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+              <folding>
+                <marker date="1473646776000" expanded="true" signature="1627:1758" ph="SELECT DISTI... " />
+                <marker date="1473646776000" expanded="true" signature="4023:4229" ph="select \\ALL... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetupGraphOptimizedPortableMongo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedPortableMongo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="79" column="11" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
+              <folding>
+                <marker date="1478834379000" expanded="true" signature="1627:1758" ph="SELECT DISTI... " />
+                <marker date="1478834379000" expanded="true" signature="4068:4274" ph="select \\ALL... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetupGraphOptimized.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimized.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="benchmark.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/benchmark.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImportScript1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/models/ImportScript1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2145">
+              <caret line="158" column="21" selection-start-line="158" selection-start-column="21" selection-end-line="158" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Algorithm/models/SetupGraphOptimized.py" />
+        <option value="$PROJECT_DIR$/Algorithm/models/ImportScript.py" />
+        <option value="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemailsql/Tag2FieldMap.json" />
+        <option value="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemailsql/Field2DimensionMap.json" />
+        <option value="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemailsql/Table2FieldMap.json" />
+        <option value="$PROJECT_DIR$/Algorithm/models/kql1_1test.py" />
+        <option value="$PROJECT_DIR$/Algorithm/models/ImportScriptMySql.py" />
+        <option value="$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedPortable.py" />
+        <option value="$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedKQL.py" />
+        <option value="$PROJECT_DIR$/benchmark.sh" />
+        <option value="$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedPortableMongo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1250" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="email_modeler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="email_modeler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="email_modeler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="email_modeler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="email_modeler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="email_modeler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="email_modeler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="/usr/local/bin/python" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="prop_add_unversioned_files" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algorithm/models" />
+      <recent name="$PROJECT_DIR$/Algorithm/models/src/main/resources" />
+      <recent name="$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail" />
+      <recent name="$PROJECT_DIR$/Algorithm/models/src/main/java/edu/mit/ll" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algorithm/models/strangestuff" />
+      <recent name="$PROJECT_DIR$/Algorithm/models/oldstatistics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SetupGraphOptimizedPortableMongo">
+    <configuration default="false" name="SetupGraphOriginal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/models/SetupGraphOriginal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="kql1_1test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/models/kql1_1test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SetupGraphOptimizedPortable" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedPortableSql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ImportScript1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/models/ImportScript1.py" />
+      <option name="PARAMETERS" value="$USER_HOME$/Downloads/enron_mail_20110402" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SetupGraphOptimizedPortableMongo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedPortableMongo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="email_modeler" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ImportScript" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/models/ImportScript.py" />
+      <option name="PARAMETERS" value="$USER_HOME$/Downloads/enron_mail_20110402/maildir" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ImportScriptMySql" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/models/ImportScriptMySql.py" />
+      <option name="PARAMETERS" value="$USER_HOME$/Downloads/enron_mail_20110402" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SetupGraphOptimizedKQL" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/models" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedKQL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SetupGraphOptimized" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="email_modeler" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/models/SetupGraphOptimized.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="Python.ImportScript" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ImportScriptMySql" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SetupGraphOptimizedKQL" />
+      <item index="3" class="java.lang.String" itemvalue="Python.SetupGraphOptimized" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SetupGraphOriginal" />
+      <item index="5" class="java.lang.String" itemvalue="Python.kql1_1test" />
+      <item index="6" class="java.lang.String" itemvalue="Python.SetupGraphOptimizedPortable" />
+      <item index="7" class="java.lang.String" itemvalue="Python.ImportScript1" />
+      <item index="8" class="java.lang.String" itemvalue="Python.SetupGraphOptimizedPortableMongo" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.SetupGraphOptimizedPortableMongo" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ImportScript1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SetupGraphOptimizedPortable" />
+        <item index="3" class="java.lang.String" itemvalue="Python.kql1_1test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SetupGraphOriginal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e6e1ce1-79c8-4a70-9677-2f723890ea3b" name="Default" comment="" />
+      <created>1469672874636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1469672874636</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1250" height="778" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28228477" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5100334" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287879" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287879" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3242424" sideWeight="0.48996654" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272727" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39848486" sideWeight="0.49331105" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimized.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimized.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm/models/ImportScript.py</url>
+          <line>225</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedKQL.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedKQL.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm/models/kql1_1test.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm/models/kql1_1test.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm/models/ImportScriptMySql.py</url>
+          <line>218</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedPortableSql.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm/models/ImportScript1.py</url>
+          <line>158</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedPortableMongo.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="50" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Library/Python/2.7/site-packages/igraph/drawing/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6075">
+          <caret line="408" column="39" selection-start-line="408" selection-start-column="30" selection-end-line="408" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/ImportScript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding>
+            <element signature="e#304#319#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedKQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1473647093000" expanded="true" signature="1710:1841" ph="SELECT DISTI... " />
+            <marker date="1473647093000" expanded="true" signature="3770:3976" ph="select \\ALL... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/SetupGraphOriginal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2655">
+          <caret line="191" column="14" selection-start-line="191" selection-start-column="11" selection-end-line="191" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4395">
+          <caret line="309" column="16" selection-start-line="309" selection-start-column="16" selection-end-line="309" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/igraph/drawing/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/igraph/drawing/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6075">
+          <caret line="408" column="39" selection-start-line="408" selection-start-column="30" selection-end-line="408" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/SetupGraphOriginal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2985">
+          <caret line="213" column="30" selection-start-line="213" selection-start-column="30" selection-end-line="213" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/output/outfile221" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/src/main/java/edu/mit/ll/php/sqlparser/src/lexer/PHPSQLLexer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/Field2DimensionMap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/DimensionSet2DimensionMap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/Tag2FieldMap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="109" selection-start-line="12" selection-start-column="100" selection-end-line="12" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemail/Table2FieldMap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemailsql/VirtualDimensionsMap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemailsql/TagScheme2TagMap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemailsql/Tag2FieldMap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/strangestuff/out.txt" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/output/out.txt" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/output/outfile" />
+    <entry file="file:///Library/Python/2.7/site-packages/peewee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="4746" column="0" selection-start-line="4746" selection-start-column="0" selection-end-line="4746" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/ImportScript.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="216" column="0" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
+          <folding>
+            <element signature="e#304#319#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/ImportScriptMySql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="212" column="35" selection-start-line="212" selection-start-column="35" selection-end-line="212" selection-end-column="35" />
+          <folding>
+            <element signature="e#304#319#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/kql1_1test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="132" selection-start-line="2" selection-start-column="17" selection-end-line="4" selection-end-column="132" />
+          <folding>
+            <marker date="1472666267000" expanded="true" signature="1018:1149" ph="SELECT DISTI... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemailsql/DimensionSet2DimensionMap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemailsql/Field2DimensionMap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/src/main/resources/jsonemailsql/Table2FieldMap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/output/outfile222" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/oldstatistics/statisticsrest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="2834" column="21" selection-start-line="2834" selection-start-column="21" selection-end-line="2834" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/strangestuff/usefulcompanies">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/strangestuff/stopwords">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/benchmarkout/kql_test1.txt" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/benchmarkout/nokql_test1.txt" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/oldstatistics/STATISTICSTEST3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/oldstatistics/statisticstest2nokql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/oldstatistics/statisticstest2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/oldstatistics/statisticslargest">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/oldstatistics/statistics">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10304">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/oldstatistics/statistics3nokql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/strangestuff/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/strangestuff/color.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/strangestuff/commext.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/statistics" />
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedPortableSql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <marker date="1473646776000" expanded="true" signature="1627:1758" ph="SELECT DISTI... " />
+            <marker date="1473646776000" expanded="true" signature="4023:4229" ph="select \\ALL... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedKQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="49" column="86" selection-start-line="49" selection-start-column="86" selection-end-line="49" selection-end-column="86" />
+          <folding>
+            <marker date="1473647093000" expanded="true" signature="1710:1841" ph="SELECT DISTI... " />
+            <marker date="1473647093000" expanded="true" signature="3770:3976" ph="select \\ALL... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimizedPortableMongo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="79" column="11" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
+          <folding>
+            <marker date="1478834379000" expanded="true" signature="1627:1758" ph="SELECT DISTI... " />
+            <marker date="1478834379000" expanded="true" signature="4068:4274" ph="select \\ALL... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/SetupGraphOptimized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/benchmark.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/models/ImportScript1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2145">
+          <caret line="158" column="21" selection-start-line="158" selection-start-column="21" selection-end-line="158" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

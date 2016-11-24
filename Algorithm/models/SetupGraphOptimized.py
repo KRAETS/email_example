@@ -60,7 +60,7 @@ def setupGraph(nodestopnum=None):
     #Regex to check if enron email
     p = re.compile('enron\.com')
     #List of all messages sent
-    #sentmessages = messages.find({"$or":[{"subFolder":"sent"},{"subFolder":"sent_items"}]})
+    sentmessages = messages.find({"$or":[{"subFolder":"sent"},{"subFolder":"sent_items"}]})
      
     #Statistics data
     nodenum = 1

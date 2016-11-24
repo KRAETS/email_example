@@ -14,7 +14,7 @@ import timeit
 import community
 from dateutil.parser import parse
 from igraph import * 
-from networkx.algorithms.centrality.betweenness import edge_betweenness        
+from networkx.algorithms.centrality.betweenness import edge_betweenness
 import pygraphviz
 from pymongo import MongoClient
 import pymongo
@@ -24,11 +24,27 @@ import math
 import matplotlib.pyplot as plt
 from test.test_pprint import list2 
 
+def evaluate_aexp(aexp, aexpontology = "src/main/resources/jsonemail/", outputfile = "out.txt"):
+    s = call(
+        ["java", "-jar", "./kql_engine-1.1-SNAPSHOT-jar-with-dependencies.jar", '-kqlq', aexp, '-co',
+         '-ont', aexpontology, '-fol', '0', '-out', outputfile])
+    resultstring = ""
+    with open('out.txt') as resultfile:
+        for line in resultfile.readlines():
+            resultstring += line
+    resultstring = resultstring.replace('{', '').replace('}', '').replace("[", '').replace("]", '')
+    tables = resultstring.split(' ')[0].strip()
+    tables = tables[tables.index(":")+1:].split(',')
+    fields = resultstring.split(' ')[1].strip()
+    fields = fields[fields.index(":")+1:].split(',')
+
+    return tables, fields
+
 
 def setupGraph(nodestopnum=None):
-    c1 =0
-    c2=0 
-    c3=0
+    c1 = 0
+    c2 = 0
+    c3 = 0
     f = open('statistics','a')
     
     #initial_emailset =  messages.find({"$or":[{"message_folder":"sent"},{"message_folder":"sent_items"}]}).distinct("sender_address")
@@ -39,8 +55,7 @@ def setupGraph(nodestopnum=None):
     f.write('\n')
 
     #REPLACEMENT
-    
-    call(["java", "-jar", "kql_engine-1.0-SNAPSHOT-jar-with-dependencies.jar","-kqlq","SELECT DISTINCT \ALL*email_address*_:source\ FROM \ALL/emailmessage}\ WHERE ( \ALL*folder\ = 'sent_items' OR \ALL*folder\ = 'sent')",'-fol','5'])
+    s = call(["java", "-jar", "./kql_engine-1.0-SNAPSHOT-jar-with-dependencies.jar","-kqlq","SELECT DISTINCT \ALL*email_address*_:source\ FROM \ALL/emailmessage}\ WHERE ( \ALL*folder\ = 'sent_items' OR \ALL*folder\ = 'sent')",'-fol','0', '-d'])
     c1= c1+1
     #print "Done"
     with open("output/outfile") as data_file:    
@@ -59,7 +74,9 @@ def setupGraph(nodestopnum=None):
     print G
     counter = 0
     for value in data['results']:
-        G.vs[counter]["email"]=value['sender_address']
+        table,field = evaluate_aexp("ALL*email_address*_:sender")
+        field = field[0].split(":")[-1]
+        G.vs[counter]["email"]=value[field]
         counter+=1
      
     #Regex to check if enron email
@@ -114,9 +131,9 @@ def setupGraph(nodestopnum=None):
     f.write('\n')
     filenumber = 0
     print c1,c2,c3
-    return
+    # return G
     #Build graph
-    nodenum = 0;
+    nodenum = 0
     for node in nodelist2:
         print len(nodelist2)
         print nodenum, len(nodelist2), len(G.vs), len(G.es)
@@ -131,10 +148,12 @@ def setupGraph(nodestopnum=None):
 
 
         
-        
-        with open("output/outfile"+str(filenumber)) as data_file:    
-            data = json.load(data_file)
-        to_messages = data['results']
+        try:
+            with open("output/outfile"+str(nodenum)) as data_file:
+                data = json.load(data_file)
+            to_messages = data['results']
+        except:
+            continue
             
 #         to_messages = db.messages.find({
 #         "$and":[
@@ -154,7 +173,9 @@ def setupGraph(nodestopnum=None):
             #cc_list = []
             emaillist = []
             try:
-                to_list = message["recipient_address"].split(",")
+                table, field = evaluate_aexp("ALL*email_address*_:recipient")
+                field = field[0].split(":")[-1]
+                to_list = message[field].split(",")
                 map(lambda s: s.strip(), to_list)
             except Exception as e:
                 pass #no to field
@@ -214,7 +235,7 @@ def setupGraph(nodestopnum=None):
                     else:
                         G.es[tofromedge]["ds"]["toammount"]+=1
                      
-        filenumber+=1
+        # filenumber+=1
     f.close()
     print c1,c2,c3
 
@@ -223,21 +244,21 @@ def setupGraph(nodestopnum=None):
 def main():
     f = open('statistics','a')
     start1 = timeit.default_timer()
-    f.write("Original Start time:"+str(start1));
+    f.write("Original Start time:"+str(start1))
     f.write('\n')
     f.close()
     G = setupGraph()
     f = open('statistics','a')
     
     start2 = timeit.default_timer()
-    f.write("Finished setup time:"+str(start2));
+    f.write("Finished setup time:"+str(start2))
     f.write('\n')
     
     diff = start2 - start1
     print "The diff is",diff
     f.write('The total time is:'+str(diff))
     
-    avg_messages = 0;
+    avg_messages = 0
     count = 0
     total = 0
     morethanten = 0

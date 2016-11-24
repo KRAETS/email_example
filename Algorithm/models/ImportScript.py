@@ -149,8 +149,9 @@ def saveToDatabase(mailboxOwner, subFolder, filename, contents):
         
         if not (dtstring >= '2000-01-01 00:00:00-07:00' and dtstring < '2002-06-31 23:59:59-07:00'):
 #             print 'Skipping because of date'
-            return
-            
+            raise ValueError("Wrong date")
+
+
 #         datetime_in_utc = datetime_in_pdt.astimezone(pytz.utc)
 #         datetime_in_pdt = datetime_in_utc.astimezone(pytz.timezone('US/Pacific'))
 
@@ -172,13 +173,15 @@ def saveToDatabase(mailboxOwner, subFolder, filename, contents):
     if document['message_body'].strip()=="":
         raise ValueError("Empty Body, not inserting")
     if not (document['message_folder'] == "sent" or document['message_folder']=='sent_items'):
-#         print 'skipping because of folder'
-        return
+        raise ValueError("Wrong folder")
+
 
     
     messages = db.email_message_table
     messages.insert(document)
-    return
+    return True
+
+
 
 if __name__ == "__main__":
 
@@ -193,6 +196,7 @@ if __name__ == "__main__":
     cn = Connection('localhost')
     db = cn.enron_mail_clean
 #     print "database initialized {0}".format(datetime.datetime.now())
+    skipped = 0
 
     for root, dirs, files in os.walk(MAIL_DIR_PATH,topdown=False):
         directory = root[PREFIX_TRIM_AMOUNT:]
@@ -201,14 +205,13 @@ if __name__ == "__main__":
         parts = directory.split('/')
         if len(parts)<=1:
             continue
-        mailboxOwner = parts[1]
+        mailboxOwner = parts[0]
 
         # sub-folder info
-        if 3 == len(parts):
-            subFolder = parts[2]
+        if 2 == len(parts):
+            subFolder = parts[1]
         else:
             subFolder = ''
-
         # distinct file name
         for filename in files:
 
@@ -218,12 +221,14 @@ if __name__ == "__main__":
                 contents = getFileContents(nameOfFileToOpen)
                 saveToDatabase(mailboxOwner, subFolder, filename, contents)
             except Exception, e:
+                # print e
+                skipped+=1
                 pass
 #                 print "Possible error with charset", e
 
             counter += 1
             if counter % 1000 == 0:
-                print("{0} {1}".format(counter,datetime.datetime.now()))
+                print("{0} {1} {2}".format(counter,skipped,datetime.datetime.now()))
 
 #     print "database closed {0}".format(datetime.datetime.now())
 #     print "{0} total records processed".format(counter - 1)

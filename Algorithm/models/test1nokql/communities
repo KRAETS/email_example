@@ -1,0 +1,155 @@
+Nodes:
+phillip.allen@enron.com
+eric.bass@enron.com
+sally.beck@enron.com
+larry.campbell@enron.com
+mike.carson@enron.com
+michelle.cash@enron.com
+twanda.sweet@enron.com
+kay.chapman@enron.com
+david.delainey@enron.com
+chris.dorland@enron.com
+daren.farmer@enron.com
+drew.fossum@enron.com
+martha.benner@enron.com
+randall.gay@enron.com
+chris.germany@enron.com
+mark.haedicke@enron.com
+janette.elbertson@enron.com
+tana.jones@enron.com
+vince.kaminski@enron.com
+phillip.love@enron.com
+gerald.nemec@enron.com
+debra.perlingiere@enron.com
+benjamin.rogers@enron.com
+elizabeth.sager@enron.com
+brenda.whitehead@enron.com
+susan.scott@enron.com
+sara.shackleton@enron.com
+kaye.ellis@enron.com
+jeff.skilling@enron.com
+carol.clair@enron.com
+mark.taylor@enron.com
+shanna.husser@enron.com
+timothy.blanchard@enron.com
+danielles@jonesgranger.com
+louise.kitchen@enron.com
+sylvia.campos@enron.com
+ddorland@smednet.com
+jackie.young@enron.com
+aimee.lannou@enron.com
+tom.acton@enron.com
+jeffery.fawcett@enron.com
+colleen.sullivan@enron.com
+david.oliver@enron.com
+brenda.fletcher@enron.com
+marde.driscoll@enron.com
+scott.goodell@enron.com
+joan.veselack@enron.com
+joann.collins@enron.com
+robert.allwein@enron.com
+bperron@columbiaenergy.com
+david.forster@enron.com
+bob.bowen@enron.com
+jarrod.cyprow@enron.com
+tanya.rohauer@enron.com
+rod.nelson@enron.com
+brent.hendry@enron.com
+marie.heard@enron.com
+susan.flynn@enron.com
+susan.bailey@enron.com
+frank.davis@enron.com
+dave.samuels@enron.com
+suzanne.adams@enron.com
+edmund.cooper@enron.com
+russell.diamond@enron.com
+shirley.crenshaw@enron.com
+vkaminski@aol.com
+stinson.gibner@enron.com
+steven.leppard@enron.com
+gary.stadler@enron.com
+jinsung.myung@enron.com
+benjamin.freeman@enron.com
+wilson.kriegel@enron.com
+lynn.aven@enron.com
+EdgesEdge:{'messageammount': 166, 'to': u'kyle.lilly@enron.com', 'fromammount': 166, 'from': u'eric.bass@enron.com', 'toammount': 0}
+Edge:{'messageammount': 36, 'to': u'shanna.husser@enron.com', 'fromammount': 36, 'from': u'eric.bass@enron.com', 'toammount': 0}
+Edge:{'messageammount': 22, 'to': u'timothy.blanchard@enron.com', 'fromammount': 22, 'from': u'eric.bass@enron.com', 'toammount': 0}
+Edge:{'messageammount': 33, 'to': u'danielles@jonesgranger.com', 'fromammount': 33, 'from': u'eric.bass@enron.com', 'toammount': 0}
+Edge:{'messageammount': 118, 'to': u'hector.mcloughlin@enron.com', 'fromammount': 118, 'from': u'sally.beck@enron.com', 'toammount': 0}
+Edge:{'messageammount': 24, 'to': u'steve.sanmiguel@enron.com', 'fromammount': 24, 'from': u'larry.campbell@enron.com', 'toammount': 0}
+Edge:{'messageammount': 49, 'to': u'susan@metronet.com', 'fromammount': 49, 'from': u'mike.carson@enron.com', 'toammount': 0}
+Edge:{'messageammount': 34, 'to': u'twanda.sweet@enron.com', 'fromammount': 33, 'from': u'michelle.cash@enron.com', 'toammount': 1}
+Edge:{'messageammount': 36, 'to': u'christian.yoder@enron.com', 'fromammount': 36, 'from': u'twanda.sweet@enron.com', 'toammount': 0}
+Edge:{'messageammount': 77, 'to': u'tim.belden@enron.com', 'fromammount': 77, 'from': u'kay.chapman@enron.com', 'toammount': 0}
+Edge:{'messageammount': 28, 'to': u'ozzie.pagan@enron.com', 'fromammount': 28, 'from': u'david.delainey@enron.com', 'toammount': 0}
+Edge:{'messageammount': 30, 'to': u'ddorland@smednet.com', 'fromammount': 30, 'from': u'chris.dorland@enron.com', 'toammount': 0}
+Edge:{'messageammount': 26, 'to': u'jackie.young@enron.com', 'fromammount': 26, 'from': u'daren.farmer@enron.com', 'toammount': 0}
+Edge:{'messageammount': 56, 'to': u'aimee.lannou@enron.com', 'fromammount': 56, 'from': u'daren.farmer@enron.com', 'toammount': 0}
+Edge:{'messageammount': 26, 'to': u'tom.acton@enron.com', 'fromammount': 26, 'from': u'daren.farmer@enron.com', 'toammount': 0}
+Edge:{'messageammount': 18, 'to': u'aimee.lannou@enron.com', 'fromammount': 18, 'from': u'daren.farmer@enron.com', 'toammount': 0}
+Edge:{'messageammount': 101, 'to': u'lorraine.lindberg@enron.com', 'fromammount': 101, 'from': u'drew.fossum@enron.com', 'toammount': 0}
+Edge:{'messageammount': 60, 'to': u'martha.benner@enron.com', 'fromammount': 60, 'from': u'drew.fossum@enron.com', 'toammount': 0}
+Edge:{'messageammount': 37, 'to': u'susan.scott@enron.com', 'fromammount': 30, 'from': u'drew.fossum@enron.com', 'toammount': 7}
+Edge:{'messageammount': 26, 'to': u'denise.squirrel@enron.com', 'fromammount': 26, 'from': u'randall.gay@enron.com', 'toammount': 0}
+Edge:{'messageammount': 23, 'to': u'colleen.sullivan@enron.com', 'fromammount': 23, 'from': u'chris.germany@enron.com', 'toammount': 0}
+Edge:{'messageammount': 753, 'to': u'steve.jackson@enron.com', 'fromammount': 753, 'from': u'chris.germany@enron.com', 'toammount': 0}
+Edge:{'messageammount': 26, 'to': u'marde.driscoll@enron.com', 'fromammount': 26, 'from': u'chris.germany@enron.com', 'toammount': 0}
+Edge:{'messageammount': 27, 'to': u'scott.goodell@enron.com', 'fromammount': 27, 'from': u'chris.germany@enron.com', 'toammount': 0}
+Edge:{'messageammount': 20, 'to': u'bperron@columbiaenergy.com', 'fromammount': 20, 'from': u'chris.germany@enron.com', 'toammount': 0}
+Edge:{'messageammount': 29, 'to': u'brenda.fletcher@enron.com', 'fromammount': 29, 'from': u'chris.germany@enron.com', 'toammount': 0}
+Edge:{'messageammount': 21, 'to': u'joan.veselack@enron.com', 'fromammount': 21, 'from': u'chris.germany@enron.com', 'toammount': 0}
+Edge:{'messageammount': 29, 'to': u'sylvia.campos@enron.com', 'fromammount': 29, 'from': u'chris.germany@enron.com', 'toammount': 0}
+Edge:{'messageammount': 17, 'to': u'david.oliver@enron.com', 'fromammount': 17, 'from': u'chris.germany@enron.com', 'toammount': 0}
+Edge:{'messageammount': 28, 'to': u'robert.allwein@enron.com', 'fromammount': 28, 'from': u'chris.germany@enron.com', 'toammount': 0}
+Edge:{'messageammount': 22, 'to': u'joann.collins@enron.com', 'fromammount': 22, 'from': u'chris.germany@enron.com', 'toammount': 0}
+Edge:{'messageammount': 27, 'to': u'barbara.gray@enron.com', 'fromammount': 27, 'from': u'mark.haedicke@enron.com', 'toammount': 0}
+Edge:{'messageammount': 24, 'to': u'mark.taylor@enron.com', 'fromammount': 24, 'from': u'janette.elbertson@enron.com', 'toammount': 0}
+Edge:{'messageammount': 23, 'to': u'bob.bowen@enron.com', 'fromammount': 23, 'from': u'tana.jones@enron.com', 'toammount': 0}
+Edge:{'messageammount': 1205, 'to': u'jefferson.sorenson@enron.com', 'fromammount': 1205, 'from': u'tana.jones@enron.com', 'toammount': 0}
+Edge:{'messageammount': 93, 'to': u'frank.davis@enron.com', 'fromammount': 93, 'from': u'tana.jones@enron.com', 'toammount': 0}
+Edge:{'messageammount': 17, 'to': u'brent.hendry@enron.com', 'fromammount': 17, 'from': u'tana.jones@enron.com', 'toammount': 0}
+Edge:{'messageammount': 29, 'to': u'carol.clair@enron.com', 'fromammount': 17, 'from': u'tana.jones@enron.com', 'toammount': 12}
+Edge:{'messageammount': 28, 'to': u'mark.taylor@enron.com', 'fromammount': 21, 'from': u'tana.jones@enron.com', 'toammount': 7}
+Edge:{'messageammount': 23, 'to': u'dave.samuels@enron.com', 'fromammount': 23, 'from': u'tana.jones@enron.com', 'toammount': 0}
+Edge:{'messageammount': 17, 'to': u'edmund.cooper@enron.com', 'fromammount': 17, 'from': u'tana.jones@enron.com', 'toammount': 0}
+Edge:{'messageammount': 93, 'to': u'shirley.crenshaw@enron.com', 'fromammount': 93, 'from': u'vince.kaminski@enron.com', 'toammount': 0}
+Edge:{'messageammount': 23, 'to': u'vkaminski@aol.com', 'fromammount': 23, 'from': u'vince.kaminski@enron.com', 'toammount': 0}
+Edge:{'messageammount': 27, 'to': u'stinson.gibner@enron.com', 'fromammount': 27, 'from': u'vince.kaminski@enron.com', 'toammount': 0}
+Edge:{'messageammount': 62, 'to': u'pinnamaneni.krishnarao@enron.com', 'fromammount': 62, 'from': u'vince.kaminski@enron.com', 'toammount': 0}
+Edge:{'messageammount': 21, 'to': u'steven.leppard@enron.com', 'fromammount': 21, 'from': u'vince.kaminski@enron.com', 'toammount': 0}
+Edge:{'messageammount': 21, 'to': u'mary.ruffer@enron.com', 'fromammount': 21, 'from': u'phillip.love@enron.com', 'toammount': 0}
+Edge:{'messageammount': 82, 'to': u'dorothy.mccoppin@enron.com', 'fromammount': 82, 'from': u'gerald.nemec@enron.com', 'toammount': 0}
+Edge:{'messageammount': 29, 'to': u'russell.diamond@enron.com', 'fromammount': 29, 'from': u'debra.perlingiere@enron.com', 'toammount': 0}
+Edge:{'messageammount': 21, 'to': u'russell.diamond@enron.com', 'fromammount': 21, 'from': u'debra.perlingiere@enron.com', 'toammount': 0}
+Edge:{'messageammount': 20, 'to': u'jinsung.myung@enron.com', 'fromammount': 20, 'from': u'benjamin.rogers@enron.com', 'toammount': 0}
+Edge:{'messageammount': 57, 'to': u'stuart.zisman@enron.com', 'fromammount': 57, 'from': u'benjamin.rogers@enron.com', 'toammount': 0}
+Edge:{'messageammount': 71, 'to': u'taffy.milligan@enron.com', 'fromammount': 71, 'from': u'elizabeth.sager@enron.com', 'toammount': 0}
+Edge:{'messageammount': 31, 'to': u'mark.haedicke@enron.com', 'fromammount': 31, 'from': u'brenda.whitehead@enron.com', 'toammount': 0}
+Edge:{'messageammount': 18, 'to': u'jeffery.fawcett@enron.com', 'fromammount': 18, 'from': u'susan.scott@enron.com', 'toammount': 0}
+Edge:{'messageammount': 488, 'to': u'jeffery.fawcett@enron.com', 'fromammount': 488, 'from': u'susan.scott@enron.com', 'toammount': 0}
+Edge:{'messageammount': 17, 'to': u'gary.stadler@enron.com', 'fromammount': 17, 'from': u'susan.scott@enron.com', 'toammount': 0}
+Edge:{'messageammount': 17, 'to': u'benjamin.freeman@enron.com', 'fromammount': 17, 'from': u'susan.scott@enron.com', 'toammount': 0}
+Edge:{'messageammount': 34, 'to': u'wilson.kriegel@enron.com', 'fromammount': 34, 'from': u'susan.scott@enron.com', 'toammount': 0}
+Edge:{'messageammount': 37, 'to': u'susan.bailey@enron.com', 'fromammount': 37, 'from': u'sara.shackleton@enron.com', 'toammount': 0}
+Edge:{'messageammount': 19, 'to': u'brent.hendry@enron.com', 'fromammount': 19, 'from': u'sara.shackleton@enron.com', 'toammount': 0}
+Edge:{'messageammount': 47, 'to': u'kaye.ellis@enron.com', 'fromammount': 47, 'from': u'sara.shackleton@enron.com', 'toammount': 0}
+Edge:{'messageammount': 20, 'to': u'lynn.aven@enron.com', 'fromammount': 20, 'from': u'sara.shackleton@enron.com', 'toammount': 0}
+Edge:{'messageammount': 18, 'to': u'jarrod.cyprow@enron.com', 'fromammount': 18, 'from': u'sara.shackleton@enron.com', 'toammount': 0}
+Edge:{'messageammount': 54, 'to': u'mark.taylor@enron.com', 'fromammount': 48, 'from': u'sara.shackleton@enron.com', 'toammount': 6}
+Edge:{'messageammount': 197, 'to': u'brent.hendry@enron.com', 'fromammount': 197, 'from': u'sara.shackleton@enron.com', 'toammount': 0}
+Edge:{'messageammount': 21, 'to': u'marie.heard@enron.com', 'fromammount': 21, 'from': u'sara.shackleton@enron.com', 'toammount': 0}
+Edge:{'messageammount': 23, 'to': u'tanya.rohauer@enron.com', 'fromammount': 23, 'from': u'sara.shackleton@enron.com', 'toammount': 0}
+Edge:{'messageammount': 27, 'to': u'rod.nelson@enron.com', 'fromammount': 27, 'from': u'sara.shackleton@enron.com', 'toammount': 0}
+Edge:{'messageammount': 54, 'to': u'carol.clair@enron.com', 'fromammount': 29, 'from': u'sara.shackleton@enron.com', 'toammount': 25}
+Edge:{'messageammount': 34, 'to': u'susan.flynn@enron.com', 'fromammount': 34, 'from': u'sara.shackleton@enron.com', 'toammount': 0}
+Edge:{'messageammount': 499, 'to': u'aroman@enron.com', 'fromammount': 499, 'from': u'jeff.skilling@enron.com', 'toammount': 0}
+Edge:{'messageammount': 86, 'to': u'lisa.mellencamp@enron.com', 'fromammount': 86, 'from': u'carol.clair@enron.com', 'toammount': 0}
+Edge:{'messageammount': 28, 'to': u'mark.taylor@enron.com', 'fromammount': 15, 'from': u'carol.clair@enron.com', 'toammount': 13}
+Edge:{'messageammount': 25, 'to': u'susan.flynn@enron.com', 'fromammount': 25, 'from': u'carol.clair@enron.com', 'toammount': 0}
+Edge:{'messageammount': 31, 'to': u'suzanne.adams@enron.com', 'fromammount': 31, 'from': u'carol.clair@enron.com', 'toammount': 0}
+Edge:{'messageammount': 26, 'to': u'susan.bailey@enron.com', 'fromammount': 26, 'from': u'carol.clair@enron.com', 'toammount': 0}
+Edge:{'messageammount': 23, 'to': u'david.forster@enron.com', 'fromammount': 23, 'from': u'carol.clair@enron.com', 'toammount': 0}
+Edge:{'messageammount': 60, 'to': u'david.forster@enron.com', 'fromammount': 60, 'from': u'mark.taylor@enron.com', 'toammount': 0}
+Edge:{'messageammount': 22, 'to': u'david.forster@enron.com', 'fromammount': 22, 'from': u'mark.taylor@enron.com', 'toammount': 0}
+Edge:{'messageammount': 18, 'to': u'louise.kitchen@enron.com', 'fromammount': 18, 'from': u'mark.taylor@enron.com', 'toammount': 0}
